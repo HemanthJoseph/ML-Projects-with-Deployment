@@ -32,8 +32,8 @@ class DataIngestion:
             logging.info("Train test split initiated")
             train_Set, test_Set = train_test_split(df, test_size=0.2, random_state=42)
 
-            train_Set.to_csv(self.ingestion_config.test_data_path, index = False, header = True)
-            train_Set.to_csv(self.ingestion_config.test_data_path, index = False, header = True)
+            train_Set.to_csv(self.ingestion_config.train_data_path, index = False, header = True)
+            test_Set.to_csv(self.ingestion_config.test_data_path, index = False, header = True)
 
             logging.info("Data Ingestion completed")
 
