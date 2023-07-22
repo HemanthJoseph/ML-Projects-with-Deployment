@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:/Users/jesui/Desktop/ML Projects with Deployment/ML_env\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

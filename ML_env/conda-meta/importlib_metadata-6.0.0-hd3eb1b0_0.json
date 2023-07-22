@@ -1,0 +1,39 @@
+{
+  "build": "hd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "importlib-metadata >=6.0.0,<6.0.1.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\jesui\\miniconda3\\pkgs\\importlib_metadata-6.0.0-hd3eb1b0_0",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "importlib_metadata-6.0.0-hd3eb1b0_0.conda",
+  "legacy_bz2_md5": "84e9e0ec2bfababddf1588df15bce378",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "C:\\Users\\jesui\\miniconda3\\pkgs\\importlib_metadata-6.0.0-hd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "0af8f090f7e0090aa5f92dd9d537c09d",
+  "name": "importlib_metadata",
+  "noarch": "generic",
+  "package_tarball_full_path": "C:\\Users\\jesui\\miniconda3\\pkgs\\importlib_metadata-6.0.0-hd3eb1b0_0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "importlib_metadata",
+  "sha256": "ed251d5e2a46275fc2388327b493aceade32d1189a49ecd1c14e6331182a5989",
+  "size": 8233,
+  "subdir": "noarch",
+  "timestamp": 1678997106263,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/importlib_metadata-6.0.0-hd3eb1b0_0.conda",
+  "version": "6.0.0"
+}

@@ -682,8 +682,10 @@ def _ss(data, c=None):
     calculated from ``c`` as given. Use the second case with care, as it can
     lead to garbage results.
     """
-    if c is None:
-        c = mean(data)
+    if c is not None:
+        T, total, count = _sum((x-c)**2 for x in data)
+        return (T, total)
+    c = mean(data)
     T, total, count = _sum((x-c)**2 for x in data)
     # The following sum should mathematically equal zero, but due to rounding
     # error may not.
@@ -744,7 +746,7 @@ def variance(data, xbar=None):
 def pvariance(data, mu=None):
     """Return the population variance of ``data``.
 
-    data should be a sequence or iterator of Real-valued numbers, with at least one
+    data should be a sequence or iterable of Real-valued numbers, with at least one
     value. The optional argument mu, if given, should be the mean of
     the data. If it is missing or None, the mean is automatically calculated.
 
@@ -1092,7 +1094,7 @@ class NormalDist:
         "Two NormalDist objects are equal if their mu and sigma are both equal."
         if not isinstance(x2, NormalDist):
             return NotImplemented
-        return (x1._mu, x2._sigma) == (x2._mu, x2._sigma)
+        return x1._mu == x2._mu and x1._sigma == x2._sigma
 
     def __hash__(self):
         "NormalDist objects hash equal if their mu and sigma are both equal."

@@ -11,3 +11,48 @@
 +defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
 +defaults/win-64::wheel-0.38.4-py38haa95532_0
 # update specs: ['python==3.8']
+==> 2023-07-20 16:47:23 <==
+# cmd: C:\Users\jesui\miniconda3\Scripts\conda-script.py install -p ML_env ipykernel --update-deps --force-reinstall
+# conda version: 23.3.1
+-defaults/win-64::openssl-1.1.1u-h2bbff1b_0
+-defaults/win-64::python-3.8.0-hff0d562_2
++defaults/noarch::asttokens-2.0.5-pyhd3eb1b0_0
++defaults/noarch::backcall-0.2.0-pyhd3eb1b0_0
++defaults/noarch::decorator-5.1.1-pyhd3eb1b0_0
++defaults/noarch::executing-0.8.3-pyhd3eb1b0_0
++defaults/noarch::importlib_metadata-6.0.0-hd3eb1b0_0
++defaults/noarch::parso-0.8.3-pyhd3eb1b0_0
++defaults/noarch::pickleshare-0.7.5-pyhd3eb1b0_1003
++defaults/noarch::pure_eval-0.2.2-pyhd3eb1b0_0
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/noarch::stack_data-0.2.0-pyhd3eb1b0_0
++defaults/noarch::wcwidth-0.2.5-pyhd3eb1b0_0
++defaults/win-64::colorama-0.4.6-py38haa95532_0
++defaults/win-64::comm-0.1.2-py38haa95532_0
++defaults/win-64::debugpy-1.5.1-py38hd77b12b_0
++defaults/win-64::importlib-metadata-6.0.0-py38haa95532_0
++defaults/win-64::ipykernel-6.19.2-py38hd4e2768_0
++defaults/win-64::ipython-8.12.0-py38haa95532_0
++defaults/win-64::jedi-0.18.1-py38haa95532_1
++defaults/win-64::jupyter_client-8.1.0-py38haa95532_0
++defaults/win-64::jupyter_core-5.3.0-py38haa95532_0
++defaults/win-64::libffi-3.4.4-hd77b12b_0
++defaults/win-64::libsodium-1.0.18-h62dcd97_0
++defaults/win-64::matplotlib-inline-0.1.6-py38haa95532_0
++defaults/win-64::nest-asyncio-1.5.6-py38haa95532_0
++defaults/win-64::openssl-3.0.9-h2bbff1b_0
++defaults/win-64::packaging-23.0-py38haa95532_0
++defaults/win-64::platformdirs-2.5.2-py38haa95532_0
++defaults/win-64::prompt-toolkit-3.0.36-py38haa95532_0
++defaults/win-64::psutil-5.9.0-py38h2bbff1b_0
++defaults/win-64::pygments-2.15.1-py38haa95532_1
++defaults/win-64::python-3.8.17-h1aa4202_0
++defaults/win-64::pywin32-305-py38h2bbff1b_0
++defaults/win-64::pyzmq-25.1.0-py38hd77b12b_0
++defaults/win-64::tornado-6.2-py38h2bbff1b_0
++defaults/win-64::traitlets-5.7.1-py38haa95532_0
++defaults/win-64::typing_extensions-4.6.3-py38haa95532_0
++defaults/win-64::zeromq-4.3.4-hd77b12b_0
++defaults/win-64::zipp-3.11.0-py38haa95532_0
+# update specs: ['pyzmq', 'python-dateutil', 'zeromq', 'comm', 'debugpy', 'jupyter_client', 'vs2015_runtime', 'pip', 'tornado', 'jupyter_core', 'executing', 'pickleshare', 'nest-asyncio', 'zipp', 'parso', 'asttokens', 'typing_extensions', 'ipython', 'importlib-metadata', 'jedi', 'wheel', 'ca-certificates', 'psutil', 'prompt-toolkit', 'backcall', 'python=3.8', 'decorator', 'six', 'matplotlib-inline', 'importlib_metadata', 'libsodium', 'packaging', 'stack_data', 'pywin32', 'wcwidth', 'colorama', 'pygments', 'sqlite', 'traitlets', 'openssl', 'vc', 'platformdirs', 'pure_eval', 'setuptools', 'ipykernel']

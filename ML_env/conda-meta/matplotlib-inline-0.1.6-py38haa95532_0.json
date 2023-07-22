@@ -1,0 +1,151 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "traitlets"
+  ],
+  "extracted_package_dir": "C:\\Users\\jesui\\miniconda3\\pkgs\\matplotlib-inline-0.1.6-py38haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/INSTALLER",
+    "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/LICENSE",
+    "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/METADATA",
+    "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/RECORD",
+    "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/REQUESTED",
+    "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/WHEEL",
+    "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/direct_url.json",
+    "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/top_level.txt",
+    "Lib/site-packages/matplotlib_inline/__init__.py",
+    "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-38.pyc",
+    "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-38.pyc",
+    "Lib/site-packages/matplotlib_inline/backend_inline.py",
+    "Lib/site-packages/matplotlib_inline/config.py",
+    ".nonadmin"
+  ],
+  "fn": "matplotlib-inline-0.1.6-py38haa95532_0.conda",
+  "legacy_bz2_md5": "dcede4303efc5efc488deed47d24f03a",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\jesui\\miniconda3\\pkgs\\matplotlib-inline-0.1.6-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "c19d3e5c9613ddcfea171088eeb32e63",
+  "name": "matplotlib-inline",
+  "package_tarball_full_path": "C:\\Users\\jesui\\miniconda3\\pkgs\\matplotlib-inline-0.1.6-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "8521b036c6448e0e0aa7213d4713b6fdee0f4c64c9f320450f77346bf5c0e8e4",
+        "sha256_in_prefix": "8521b036c6448e0e0aa7213d4713b6fdee0f4c64c9f320450f77346bf5c0e8e4",
+        "size_in_bytes": 1538
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "88fe9849c9a2b3a60d6626ebc27ddfbd536d2a9d24e991e93026e97c4bdd18a9",
+        "sha256_in_prefix": "88fe9849c9a2b3a60d6626ebc27ddfbd536d2a9d24e991e93026e97c4bdd18a9",
+        "size_in_bytes": 2841
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "026fb5f1be8e993195fc5cbd1854e9162b245de1472693d655c0ea50d4da6c28",
+        "sha256_in_prefix": "026fb5f1be8e993195fc5cbd1854e9162b245de1472693d655c0ea50d4da6c28",
+        "size_in_bytes": 1181
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "7680357ef8ce7345ea8605edec0f3a92614b09a8bec50f4b4b745e8b05768c8d",
+        "sha256_in_prefix": "7680357ef8ce7345ea8605edec0f3a92614b09a8bec50f4b4b745e8b05768c8d",
+        "size_in_bytes": 77
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline-0.1.6.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "d15889a91b4964b212ec87e31eb520608e9122f598d1c7e4d4e8c0969e3466cc",
+        "sha256_in_prefix": "d15889a91b4964b212ec87e31eb520608e9122f598d1c7e4d4e8c0969e3466cc",
+        "size_in_bytes": 18
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "89b2bbe6d00c87f86bd664ee29acfada8062560d5aceb393fe77254cee51ef79",
+        "sha256_in_prefix": "89b2bbe6d00c87f86bd664ee29acfada8062560d5aceb393fe77254cee51ef79",
+        "size_in_bytes": 75
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "fe697e3006a29ef8cc00f9c0d18599fd2ce5256c242681aa94eb3a2e17aa6075",
+        "sha256_in_prefix": "fe697e3006a29ef8cc00f9c0d18599fd2ce5256c242681aa94eb3a2e17aa6075",
+        "size_in_bytes": 220
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "8b934c000eadf1d28734fc04b6db438a361770109e6ae5343ceeb52528ebf2f1",
+        "sha256_in_prefix": "8b934c000eadf1d28734fc04b6db438a361770109e6ae5343ceeb52528ebf2f1",
+        "size_in_bytes": 8523
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "5e427a0081338445d4ec67a36d2303841298cb06730653ad260c235d8c2441e9",
+        "sha256_in_prefix": "5e427a0081338445d4ec67a36d2303841298cb06730653ad260c235d8c2441e9",
+        "size_in_bytes": 3835
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline/backend_inline.py",
+        "path_type": "hardlink",
+        "sha256": "6b8c3c7260473925303091ef2c950eb3aa5252538712cc7437c1c61007f1b315",
+        "sha256_in_prefix": "6b8c3c7260473925303091ef2c950eb3aa5252538712cc7437c1c61007f1b315",
+        "size_in_bytes": 11311
+      },
+      {
+        "_path": "Lib/site-packages/matplotlib_inline/config.py",
+        "path_type": "hardlink",
+        "sha256": "67cece0aff8b4ad6213b04362e61c3371c24027f412c52936c723b5d2013d497",
+        "sha256_in_prefix": "67cece0aff8b4ad6213b04362e61c3371c24027f412c52936c723b5d2013d497",
+        "size_in_bytes": 3911
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib-inline",
+  "sha256": "e75128cdb5e6fceb49b3c7e978906a28723bf865c62ed0b2c2e353ee3f56934b",
+  "size": 17634,
+  "subdir": "win-64",
+  "timestamp": 1661934096957,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/matplotlib-inline-0.1.6-py38haa95532_0.conda",
+  "version": "0.1.6"
+}
